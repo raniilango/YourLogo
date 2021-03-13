@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-13T10:27:05 IST" name="Default suite" finished-at="2021-03-13T10:28:08 IST" duration-ms="62648">
+    <groups>
+    </groups>
+    <test started-at="2021-03-13T10:27:05 IST" name="Default test" finished-at="2021-03-13T10:28:08 IST" duration-ms="62648">
+      <class name="com.testcase.TC1_SignPageValidation">
+        <test-method is-config="true" signature="initialsetup()[pri:0, instance:com.testcase.TC1_SignPageValidation@56de5251]" started-at="2021-03-13T10:27:05 IST" name="initialsetup" finished-at="2021-03-13T10:28:01 IST" duration-ms="55690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialsetup -->
+        <test-method signature="signPageDisplayed()[pri:0, instance:com.testcase.TC1_SignPageValidation@56de5251]" started-at="2021-03-13T10:28:01 IST" name="signPageDisplayed" finished-at="2021-03-13T10:28:06 IST" duration-ms="5455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signPageDisplayed -->
+        <test-method is-config="true" signature="testend()[pri:0, instance:com.testcase.TC1_SignPageValidation@56de5251]" started-at="2021-03-13T10:28:06 IST" name="testend" finished-at="2021-03-13T10:28:08 IST" duration-ms="1386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testend -->
+      </class> <!-- com.testcase.TC1_SignPageValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
